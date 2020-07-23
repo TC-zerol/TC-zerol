@@ -17,12 +17,13 @@ I am a Computer Science and Technology Student. I love Machine Learning and tryi
 
 .    
 
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TC-zerol&hide=["stars"]&show_icons=true)
 
 -------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
 ```text
 Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
 HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
@@ -30,6 +31,6 @@ Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░
 Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
 
-⭐️ From [@Amchuz](https://github.com/Amchuz)
+⭐️ From [@Zerol](https://github.com/TC-zerol)
 
 ```
