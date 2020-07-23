@@ -13,7 +13,7 @@ I am a Computer Science and Technology Student. I love Machine Learning and tryi
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+#### How about some stats ?
 
 .    
 
@@ -21,16 +21,12 @@ I am a Computer Science and Technology Student. I love Machine Learning and tryi
 
 -------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
+#### Competitive Programming
 
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+Python 
+Java
+some C++
 
 
 ⭐️ From [@Zerol](https://github.com/TC-zerol)
 
-```
