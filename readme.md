@@ -23,9 +23,9 @@ I am a Computer Science and Technology Student. I love Machine Learning and tryi
 
 #### Competitive Programming
 
-Python 
-Java
-some C++
+- Python 
+- Java
+- some C++
 
 
 ⭐️ From [@Zerol](https://github.com/TC-zerol)
